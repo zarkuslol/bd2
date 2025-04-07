@@ -15,6 +15,9 @@ RUN apt update && apt install -y \
     gedit \
     && rm -rf /var/lib/apt/lists/*
 
+# Removendo a instalação do PostgreSQL
+RUN rm -rf /var/lib/postgresql/14/main/*
+
 # Cria uma pasta de trabalho
 WORKDIR /home/joselucas
 
@@ -24,4 +27,13 @@ ENV PATH=$JAVA_HOME/bin:$PATH
 
 # Derby-tools
 ENV DERBY_HOME=/opt/derby/db-derby-10.14.2.0-bin
-ENV PATH=$PATH:$DERBY_HOME/bin
+ENV PATH=$PATH:$DERBY_HOME/bin:/var/lib/postgresql/14/bin
+
+# Copia o script de entrypoint
+COPY entrypoint.sh /usr/local/bin/entrypoint.sh
+RUN chmod +x /usr/local/bin/entrypoint.sh
+
+# Define como ponto de entrada
+ENTRYPOINT ["/usr/local/bin/entrypoint.sh"]
+
+# Comando para entrar no banco IB: psql -h localhost -p 5432 -U postgres IB
