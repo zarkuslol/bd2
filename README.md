@@ -23,6 +23,7 @@ docker-compose up --build -d
 3. Acesse o serviço no navegador ou via terminal conforme configurado no `docker-compose.yml`.
 ```bash
 docker exec -it jdbc-tutorial bash
+```
 
 ## Parar os containers
 
