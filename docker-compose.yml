@@ -1,0 +1,9 @@
+version: '3.9'
+
+services:
+  jdbc-tutorial:
+    build: .
+    container_name: jdbc-tutorial
+    volumes:
+      - ./workspace:/home/joselucas/workspace
+    tty: true
