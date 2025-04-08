@@ -34,5 +34,17 @@ else
     echo "Dump não encontrado em $DUMP_PATH"
 fi
 
+# Criação do banco SQLite
+SQLITE_DB="/home/joselucas/workspace/ib.sqlite"
+SQLITE_DUMP="/home/joselucas/workspace/ib_sqlite.dump"
+
+if [ -f "$SQLITE_DUMP" ]; then
+    echo "Criando banco SQLite em $SQLITE_DB ..."
+    sqlite3 "$SQLITE_DB" < "$SQLITE_DUMP"
+    echo "Banco SQLite criado com sucesso."
+else
+    echo "Arquivo de dump do SQLite não encontrado em $SQLITE_DUMP"
+fi
+
 # Mantém o processo vivo
 wait

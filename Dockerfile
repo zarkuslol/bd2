@@ -13,6 +13,7 @@ RUN apt update && apt install -y \
     unzip \
     curl \
     gedit \
+    sqlite3 \
     && rm -rf /var/lib/apt/lists/*
 
 # Removendo a instalação do PostgreSQL
@@ -36,4 +37,3 @@ RUN chmod +x /usr/local/bin/entrypoint.sh
 # Define como ponto de entrada
 ENTRYPOINT ["/usr/local/bin/entrypoint.sh"]
 
-# Comando para entrar no banco IB: psql -h localhost -p 5432 -U postgres IB
