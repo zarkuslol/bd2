@@ -1,0 +1,50 @@
+#!/bin/bash
+set -e
+
+derby=/usr/share/java/derby.jar
+postgres=/home/joselucas/workspace/JDBCTutorial/postgresql-42.2.4.jar
+sqlite=/home/joselucas/workspace/JDBCTutorial/sqlite-jdbc-3.49.1.0.jar
+mypath=/home/joselucas/workspace/JDBCTutorial
+mypackage=com/oracle/tutorial/jdbc
+
+if [ -r "$mypath/src/$mypackage/$1.java" -a -r "$mypath/$2" ]; then
+
+  # Detectar tipo de banco no arquivo XML
+  dbms=$(grep -oPm1 "(?<=<entry key=\"dbms\">)[^<]+" "$mypath/$2")
+
+  # Montar classpath dinâmico
+  cp_base="$mypath/classes:$mypath/lib/JDBCTutorial.jar"
+  if [ "$dbms" == "sqlite" ]; then
+    cp_full="$sqlite:$cp_base"
+  elif [ "$dbms" == "postgresql" ]; then
+    cp_full="$postgres:$cp_base"
+  else
+    cp_full="$derby:$cp_base"
+  fi
+
+  # Compilar
+  javac -cp "$cp_full" "$mypath/src/$mypackage/$1.java"
+  javac_result=$?
+  if [ $javac_result -ne 0 ]; then
+    echo "Erro ao compilar $1.java. Código de saída: $javac_result"
+    exit 1
+  fi
+
+  # Mover .class
+  if [ -r "$mypath/src/$mypackage/$1.class" ]; then
+    mv "$mypath/src/$mypackage/$1.class" "$mypath/classes/$mypackage/"
+
+    # Executar
+    java -cp "$cp_full" "$mypackage/$1" "$mypath/$2" "$3"
+    java_result=$?
+    if [ $java_result -ne 0 ]; then
+      echo "Erro ao executar $1. Código de saída: $java_result"
+      exit 1
+    fi
+  fi
+else
+  echo "Missing file, check:"
+  ls "$mypath/src/$mypackage/$1.java"
+  ls "$mypath/$2"
+  exit 1
+fi

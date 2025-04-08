@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+
+  <entry key="dbms">sqlite</entry>
+  <entry key="driver">org.sqlite.JDBC</entry>
+  <entry key="database_name">/home/joselucas/workspace/ib.sqlite</entry>
+
+</properties>

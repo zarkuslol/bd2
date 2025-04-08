@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Mar 30 23:23:13 UTC 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (???): instance a816c00e-0195-e95d-cd34-000006dab960 
+on database directory /home/joselucas/workspace/JDBCTutorial/testdb with class loader sun.misc.Launcher$AppClassLoader@266474c2 
+Loaded from file:/usr/share/java/derby.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_442-8u442-b06~us1-0ubuntu1~22.04-b06
+user.dir=/home/joselucas/workspace/JDBCTutorial
+os.name=Linux
+os.arch=aarch64
+os.version=6.10.14-linuxkit
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
