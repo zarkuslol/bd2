@@ -16,9 +16,6 @@ RUN apt update && apt install -y \
     sqlite3 \
     && rm -rf /var/lib/apt/lists/*
 
-# Removendo a instalação do PostgreSQL
-RUN rm -rf /var/lib/postgresql/14/main/*
-
 # Cria uma pasta de trabalho
 WORKDIR /home/joselucas
 
@@ -36,4 +33,3 @@ RUN chmod +x /usr/local/bin/entrypoint.sh
 
 # Define como ponto de entrada
 ENTRYPOINT ["/usr/local/bin/entrypoint.sh"]
-

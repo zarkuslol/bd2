@@ -1,0 +1,751 @@
+numero_debito	valor_debito	motivo_debito	data_debito	numero_conta	nome_agencia	nome_cliente
+985977	186	4	2025-02-07	182332	Gameleira	Nicole da Luz
+953875	11	10	2024-11-28	146958	Gameleira	Alice da Conceição
+441025	26	4	2023-09-22	121149	Gameleira	Arthur Gabriel Aparecida
+792475	19	4	2024-04-15	161902	UFU	Vitor Oliveira
+617573	132	6	2024-07-03	184886	Cidade Jardim	Augusto Correia
+575464	114	5	2024-07-21	174185	Gameleira	Maria Luísa Novaes
+586037	37	8	2024-04-19	139785	Pampulha	Olívia Pereira
+683455	107	10	2025-01-30	174185	Gameleira	Maria Luísa Novaes
+948763	10	1	2024-08-23	194154	UFU	Maria Alice Albuquerque
+188962	19	9	2023-10-23	160675	UFU	Dra. Ana Clara Abreu
+686975	67	9	2024-04-30	118924	Pampulha	Leandro Teixeira
+642686	65	8	2024-09-16	168227	Gameleira	João Gabriel Nogueira
+837088	82	4	2023-08-11	185647	UFU	Guilherme da Cunha
+813421	73	9	2024-09-05	148203	Cidade Jardim	Isabela Casa Grande
+936642	182	4	2024-08-05	199301	UFU	Matteo da Cruz
+63907	194	2	2023-10-14	144688	Pampulha	Arthur Gabriel Costela
+709473	112	4	2024-08-14	121149	Gameleira	Arthur Gabriel Aparecida
+636816	120	7	2023-05-15	150639	Central	Eduarda Costela
+659167	110	10	2024-08-06	120637	Glória	Maria Flor Silva
+74074	104	9	2023-09-13	182557	Pampulha	Kamilly Campos
+885864	22	10	2024-01-01	174185	Gameleira	Maria Luísa Novaes
+868996	121	4	2023-10-10	125390	Glória	Lucca Ferreira
+646535	100	1	2023-10-14	181314	Pampulha	Luan Oliveira
+690575	133	10	2023-07-27	153270	Cidade Jardim	João Gabriel Marques
+760512	110	7	2024-12-26	160675	UFU	Dra. Ana Clara Abreu
+163586	48	10	2023-04-11	113189	Gameleira	Helena da Paz
+418648	115	10	2024-03-11	105689	Central	Vitor Gabriel Borges
+596146	20	5	2024-10-07	168227	Gameleira	João Gabriel Nogueira
+760882	168	3	2024-12-24	128808	Cidade Jardim	Luiz Fernando da Mota
+916262	173	9	2024-05-05	161902	UFU	Vitor Oliveira
+306238	196	8	2023-05-10	185647	UFU	Guilherme da Cunha
+454853	116	2	2023-06-26	125390	Glória	Lucca Ferreira
+833394	115	6	2023-11-24	113189	Gameleira	Helena da Paz
+242612	52	7	2024-09-02	139785	Pampulha	Olívia Pereira
+505652	74	2	2023-12-17	110443	Central	Cauã Gonçalves
+335336	187	3	2023-06-27	124337	UFU	Arthur Miguel Cavalcante
+466878	14	9	2024-06-08	134973	Glória	Felipe Araújo
+492385	171	9	2024-12-18	171654	UFU	Mateus Rios
+730097	177	4	2024-04-04	161902	UFU	Vitor Oliveira
+731384	24	5	2024-08-27	139785	Pampulha	Olívia Pereira
+527005	55	2	2024-01-08	184886	Cidade Jardim	Augusto Correia
+449954	160	8	2025-02-22	174699	Glória	Dra. Mariana da Luz
+319903	67	5	2023-11-15	153270	Cidade Jardim	João Gabriel Marques
+27588	26	6	2024-02-09	194154	UFU	Maria Alice Albuquerque
+782035	182	6	2024-03-19	128808	Cidade Jardim	Luiz Fernando da Mota
+119169	98	2	2025-01-02	171654	UFU	Mateus Rios
+656935	139	3	2023-12-20	171654	UFU	Mateus Rios
+222221	171	6	2025-01-23	148203	Cidade Jardim	Isabela Casa Grande
+499281	77	6	2023-06-08	161902	UFU	Vitor Oliveira
+666179	136	4	2025-01-25	146958	Gameleira	Alice da Conceição
+260456	178	9	2025-01-05	113189	Gameleira	Helena da Paz
+356750	71	3	2024-10-19	168227	Gameleira	João Gabriel Nogueira
+947041	119	4	2024-02-16	168028	UFU	Enrico Montenegro
+423934	191	5	2023-08-02	120637	Glória	Maria Flor Silva
+663235	166	10	2023-06-22	194154	UFU	Maria Alice Albuquerque
+989448	195	9	2024-03-15	185647	UFU	Guilherme da Cunha
+86828	194	2	2024-10-26	114296	Cidade Jardim	Erick Siqueira
+224523	71	7	2023-12-06	139785	Pampulha	Olívia Pereira
+692505	18	2	2024-05-23	168028	UFU	Enrico Montenegro
+103928	52	9	2024-11-11	160510	Glória	Maria Alice Garcia
+366013	39	6	2024-12-10	146958	Gameleira	Alice da Conceição
+724487	154	9	2023-12-11	104562	Glória	Mariane Aparecida
+388769	107	10	2023-10-01	168028	UFU	Enrico Montenegro
+413264	138	3	2023-11-06	159089	Central	Cauê Montenegro
+774971	138	1	2025-01-21	134973	Glória	Felipe Araújo
+283868	193	7	2023-06-04	161902	UFU	Vitor Oliveira
+129199	16	9	2024-05-25	184886	Cidade Jardim	Augusto Correia
+739587	105	4	2023-05-30	109882	Glória	Manuella Abreu
+415750	85	7	2023-11-18	134973	Glória	Felipe Araújo
+142825	149	9	2024-12-24	176603	Central	Rael Oliveira
+202549	103	3	2024-04-20	176603	Central	Rael Oliveira
+755552	88	6	2024-08-11	109882	Glória	Manuella Abreu
+409397	87	8	2024-11-04	120637	Glória	Maria Flor Silva
+981314	140	1	2024-12-09	148203	Cidade Jardim	Isabela Casa Grande
+212872	11	9	2023-06-09	168028	UFU	Enrico Montenegro
+847513	50	6	2023-11-14	109882	Glória	Manuella Abreu
+12769	38	1	2023-11-12	174699	Glória	Dra. Mariana da Luz
+726319	27	1	2024-12-10	168028	UFU	Enrico Montenegro
+655058	100	4	2025-02-15	144688	Pampulha	Arthur Gabriel Costela
+80098	68	7	2024-07-23	121149	Gameleira	Arthur Gabriel Aparecida
+565375	165	3	2024-04-16	139785	Pampulha	Olívia Pereira
+458950	196	2	2023-10-30	108381	Gameleira	Ana Luiza Rios
+650287	74	5	2024-11-18	168227	Gameleira	João Gabriel Nogueira
+90429	137	9	2023-07-13	121149	Gameleira	Arthur Gabriel Aparecida
+438651	172	6	2023-12-20	159089	Central	Cauê Montenegro
+303085	32	1	2024-04-16	134973	Glória	Felipe Araújo
+522731	105	2	2025-02-12	199301	UFU	Matteo da Cruz
+36555	17	8	2023-04-25	182332	Gameleira	Nicole da Luz
+806276	53	6	2024-05-05	146958	Gameleira	Alice da Conceição
+193510	151	10	2024-12-03	181314	Pampulha	Luan Oliveira
+115707	50	7	2024-02-16	185647	UFU	Guilherme da Cunha
+694165	13	1	2025-02-19	171654	UFU	Mateus Rios
+755763	156	3	2023-06-13	168227	Gameleira	João Gabriel Nogueira
+223968	54	8	2023-03-22	114296	Cidade Jardim	Erick Siqueira
+614843	107	4	2024-10-28	159089	Central	Cauê Montenegro
+770054	32	5	2024-06-03	105689	Central	Vitor Gabriel Borges
+90729	140	4	2023-12-17	161902	UFU	Vitor Oliveira
+791895	132	7	2025-01-03	125390	Glória	Lucca Ferreira
+440385	152	2	2024-04-29	182557	Pampulha	Kamilly Campos
+63165	188	9	2023-11-03	181314	Pampulha	Luan Oliveira
+973055	115	10	2023-09-15	124337	UFU	Arthur Miguel Cavalcante
+680549	177	9	2024-06-12	110443	Central	Cauã Gonçalves
+351708	154	8	2023-09-24	168028	UFU	Enrico Montenegro
+71687	55	3	2023-05-27	160675	UFU	Dra. Ana Clara Abreu
+94529	20	8	2023-03-16	160510	Glória	Maria Alice Garcia
+706755	151	1	2024-01-12	181314	Pampulha	Luan Oliveira
+95380	62	1	2024-09-18	113189	Gameleira	Helena da Paz
+17758	166	3	2025-01-25	124337	UFU	Arthur Miguel Cavalcante
+179599	28	9	2023-10-06	161902	UFU	Vitor Oliveira
+218045	191	9	2024-11-22	109882	Glória	Manuella Abreu
+448448	47	1	2025-01-26	104562	Glória	Mariane Aparecida
+536018	131	1	2024-06-06	174185	Gameleira	Maria Luísa Novaes
+579844	34	2	2024-04-13	150639	Central	Eduarda Costela
+515434	55	2	2024-12-18	148203	Cidade Jardim	Isabela Casa Grande
+313850	13	6	2024-01-19	139785	Pampulha	Olívia Pereira
+522928	169	9	2024-07-12	174699	Glória	Dra. Mariana da Luz
+767182	178	10	2024-04-21	114296	Cidade Jardim	Erick Siqueira
+894783	180	8	2023-04-08	121149	Gameleira	Arthur Gabriel Aparecida
+579373	22	8	2023-10-18	174699	Glória	Dra. Mariana da Luz
+654056	34	7	2023-04-24	144688	Pampulha	Arthur Gabriel Costela
+494114	159	2	2023-12-27	144688	Pampulha	Arthur Gabriel Costela
+657333	41	3	2024-05-05	199301	UFU	Matteo da Cruz
+542005	33	8	2024-09-05	199301	UFU	Matteo da Cruz
+889563	98	3	2023-10-06	176603	Central	Rael Oliveira
+807082	25	6	2025-02-10	176603	Central	Rael Oliveira
+710622	156	9	2024-03-18	168028	UFU	Enrico Montenegro
+919257	98	8	2023-08-17	168028	UFU	Enrico Montenegro
+593674	76	10	2024-12-15	109882	Glória	Manuella Abreu
+52496	59	6	2024-04-14	174699	Glória	Dra. Mariana da Luz
+648745	84	9	2025-01-18	171654	UFU	Mateus Rios
+553598	20	7	2023-07-12	148203	Cidade Jardim	Isabela Casa Grande
+487160	157	9	2025-01-20	120637	Glória	Maria Flor Silva
+286786	197	9	2024-12-31	167890	Glória	Asafe Silveira
+343462	15	6	2023-06-13	182332	Gameleira	Nicole da Luz
+137681	125	5	2024-12-13	125390	Glória	Lucca Ferreira
+448026	50	3	2024-11-25	136390	UFU	Josué Moraes
+758202	200	2	2024-07-04	182332	Gameleira	Nicole da Luz
+270417	104	2	2024-01-18	182557	Pampulha	Kamilly Campos
+212372	172	2	2023-07-14	128808	Cidade Jardim	Luiz Fernando da Mota
+13275	82	4	2024-08-29	153270	Cidade Jardim	João Gabriel Marques
+740651	19	2	2023-09-13	182332	Gameleira	Nicole da Luz
+521436	187	6	2025-02-11	110443	Central	Cauã Gonçalves
+256458	95	9	2023-07-27	121149	Gameleira	Arthur Gabriel Aparecida
+431030	125	3	2023-07-03	168227	Gameleira	João Gabriel Nogueira
+151412	78	2	2023-10-05	125390	Glória	Lucca Ferreira
+795849	42	1	2024-02-21	139785	Pampulha	Olívia Pereira
+920344	150	7	2023-11-11	176603	Central	Rael Oliveira
+644179	200	9	2024-03-13	160675	UFU	Dra. Ana Clara Abreu
+818918	56	2	2023-06-26	181314	Pampulha	Luan Oliveira
+78565	40	10	2024-07-04	150639	Central	Eduarda Costela
+988931	88	9	2024-12-23	153270	Cidade Jardim	João Gabriel Marques
+750456	152	10	2023-06-21	153270	Cidade Jardim	João Gabriel Marques
+725178	22	3	2023-10-12	121149	Gameleira	Arthur Gabriel Aparecida
+669225	179	2	2024-04-26	136390	UFU	Josué Moraes
+602540	116	10	2023-08-27	148203	Cidade Jardim	Isabela Casa Grande
+211954	88	5	2025-02-10	194154	UFU	Maria Alice Albuquerque
+727330	34	9	2024-01-27	150639	Central	Eduarda Costela
+272140	65	4	2024-10-22	150639	Central	Eduarda Costela
+825237	130	1	2024-09-23	113189	Gameleira	Helena da Paz
+471203	188	5	2024-02-10	197968	Pampulha	Maria Luísa Moraes
+156731	94	10	2023-08-02	194154	UFU	Maria Alice Albuquerque
+79563	82	5	2023-10-29	148203	Cidade Jardim	Isabela Casa Grande
+462189	146	4	2024-03-27	160510	Glória	Maria Alice Garcia
+904452	14	9	2023-08-11	174185	Gameleira	Maria Luísa Novaes
+355807	173	6	2024-08-02	168227	Gameleira	João Gabriel Nogueira
+716726	120	3	2023-10-09	136390	UFU	Josué Moraes
+857780	104	5	2023-07-06	182557	Pampulha	Kamilly Campos
+466439	25	4	2024-06-22	146958	Gameleira	Alice da Conceição
+163581	81	7	2024-12-06	125390	Glória	Lucca Ferreira
+777805	51	10	2023-10-12	124337	UFU	Arthur Miguel Cavalcante
+703684	156	6	2024-02-10	124337	UFU	Arthur Miguel Cavalcante
+605401	24	6	2024-11-26	161902	UFU	Vitor Oliveira
+954556	169	1	2023-11-27	194154	UFU	Maria Alice Albuquerque
+411385	90	2	2025-02-10	194154	UFU	Maria Alice Albuquerque
+266180	157	2	2024-05-10	144688	Pampulha	Arthur Gabriel Costela
+216669	40	6	2024-07-15	182557	Pampulha	Kamilly Campos
+959728	146	9	2023-05-22	110443	Central	Cauã Gonçalves
+667402	121	4	2023-05-18	182332	Gameleira	Nicole da Luz
+782941	145	9	2023-03-18	120637	Glória	Maria Flor Silva
+500820	196	7	2024-08-08	174185	Gameleira	Maria Luísa Novaes
+961345	124	8	2025-03-06	168028	UFU	Enrico Montenegro
+675748	93	5	2024-02-15	144688	Pampulha	Arthur Gabriel Costela
+720420	119	3	2023-05-10	109882	Glória	Manuella Abreu
+102359	35	3	2024-01-17	197968	Pampulha	Maria Luísa Moraes
+36724	108	10	2024-08-08	134973	Glória	Felipe Araújo
+898325	64	7	2024-08-08	118924	Pampulha	Leandro Teixeira
+513825	32	3	2024-10-11	118924	Pampulha	Leandro Teixeira
+38302	75	4	2023-05-16	118924	Pampulha	Leandro Teixeira
+177049	64	10	2024-08-02	134973	Glória	Felipe Araújo
+138895	60	1	2024-01-19	199301	UFU	Matteo da Cruz
+954204	153	3	2024-11-08	146958	Gameleira	Alice da Conceição
+920962	52	9	2024-07-25	120637	Glória	Maria Flor Silva
+694205	106	8	2023-10-08	150639	Central	Eduarda Costela
+990927	34	8	2024-12-18	181314	Pampulha	Luan Oliveira
+178530	47	8	2024-04-27	199301	UFU	Matteo da Cruz
+933328	38	3	2025-01-09	184886	Cidade Jardim	Augusto Correia
+405853	182	10	2024-08-14	118924	Pampulha	Leandro Teixeira
+406999	67	3	2024-05-01	125390	Glória	Lucca Ferreira
+692150	27	6	2024-07-08	153270	Cidade Jardim	João Gabriel Marques
+863183	71	6	2023-12-08	194154	UFU	Maria Alice Albuquerque
+619782	52	2	2025-02-23	182332	Gameleira	Nicole da Luz
+558246	174	2	2024-04-02	104562	Glória	Mariane Aparecida
+509198	169	3	2023-09-10	153270	Cidade Jardim	João Gabriel Marques
+509088	71	8	2024-11-17	197968	Pampulha	Maria Luísa Moraes
+416669	38	3	2024-05-19	120637	Glória	Maria Flor Silva
+321303	25	10	2024-05-09	144688	Pampulha	Arthur Gabriel Costela
+568010	200	2	2025-02-01	125390	Glória	Lucca Ferreira
+293557	51	4	2024-04-14	184886	Cidade Jardim	Augusto Correia
+563009	159	2	2024-08-17	160510	Glória	Maria Alice Garcia
+625900	52	7	2023-05-13	199301	UFU	Matteo da Cruz
+108878	200	5	2024-04-04	174185	Gameleira	Maria Luísa Novaes
+916078	191	7	2024-09-02	150639	Central	Eduarda Costela
+368848	40	7	2025-01-26	120637	Glória	Maria Flor Silva
+255188	21	4	2023-07-26	121149	Gameleira	Arthur Gabriel Aparecida
+426169	66	4	2024-09-17	168227	Gameleira	João Gabriel Nogueira
+118989	130	4	2023-10-16	114296	Cidade Jardim	Erick Siqueira
+811017	46	4	2023-03-26	148203	Cidade Jardim	Isabela Casa Grande
+172513	104	4	2024-05-23	199301	UFU	Matteo da Cruz
+941193	109	7	2023-03-19	124337	UFU	Arthur Miguel Cavalcante
+754117	76	9	2024-01-16	110443	Central	Cauã Gonçalves
+159602	112	4	2024-06-12	105689	Central	Vitor Gabriel Borges
+199887	88	9	2023-08-09	160675	UFU	Dra. Ana Clara Abreu
+826835	112	5	2024-07-08	109882	Glória	Manuella Abreu
+863153	198	1	2024-11-13	197968	Pampulha	Maria Luísa Moraes
+668212	141	1	2024-05-09	159089	Central	Cauê Montenegro
+195740	173	7	2024-02-17	110443	Central	Cauã Gonçalves
+982551	19	8	2025-01-03	161902	UFU	Vitor Oliveira
+737320	15	10	2024-09-09	194154	UFU	Maria Alice Albuquerque
+55915	128	6	2023-12-24	125390	Glória	Lucca Ferreira
+813864	85	3	2023-06-19	146958	Gameleira	Alice da Conceição
+479597	106	5	2024-07-20	153270	Cidade Jardim	João Gabriel Marques
+270368	162	7	2024-09-01	121149	Gameleira	Arthur Gabriel Aparecida
+954553	130	1	2024-07-31	124337	UFU	Arthur Miguel Cavalcante
+963248	190	7	2024-05-03	199301	UFU	Matteo da Cruz
+260792	124	3	2023-04-30	118924	Pampulha	Leandro Teixeira
+727497	77	4	2023-05-27	104562	Glória	Mariane Aparecida
+3656	23	10	2024-10-31	110443	Central	Cauã Gonçalves
+485457	112	8	2023-05-22	150639	Central	Eduarda Costela
+869861	151	4	2024-12-06	118924	Pampulha	Leandro Teixeira
+967610	80	10	2024-09-16	167890	Glória	Asafe Silveira
+270923	190	3	2024-08-19	174699	Glória	Dra. Mariana da Luz
+227254	108	5	2024-09-15	160675	UFU	Dra. Ana Clara Abreu
+358916	180	6	2024-02-28	185647	UFU	Guilherme da Cunha
+290085	173	4	2025-03-13	114296	Cidade Jardim	Erick Siqueira
+827265	90	1	2023-03-15	171654	UFU	Mateus Rios
+830228	166	10	2024-05-03	105689	Central	Vitor Gabriel Borges
+930673	195	3	2023-12-27	159089	Central	Cauê Montenegro
+270275	97	7	2024-02-09	134973	Glória	Felipe Araújo
+701753	30	3	2024-07-10	114296	Cidade Jardim	Erick Siqueira
+911636	127	5	2024-07-16	104562	Glória	Mariane Aparecida
+355625	68	1	2024-03-18	182332	Gameleira	Nicole da Luz
+998875	198	7	2025-02-08	168028	UFU	Enrico Montenegro
+355769	139	6	2023-10-19	146958	Gameleira	Alice da Conceição
+186919	133	4	2023-11-25	194154	UFU	Maria Alice Albuquerque
+836076	113	1	2023-06-25	120637	Glória	Maria Flor Silva
+335252	10	9	2024-11-09	182557	Pampulha	Kamilly Campos
+346435	148	1	2024-02-05	104562	Glória	Mariane Aparecida
+919129	133	2	2024-02-16	199301	UFU	Matteo da Cruz
+212504	145	9	2023-10-03	160510	Glória	Maria Alice Garcia
+663546	129	9	2023-07-12	160510	Glória	Maria Alice Garcia
+105372	191	10	2023-05-24	105689	Central	Vitor Gabriel Borges
+469176	56	10	2023-11-07	110443	Central	Cauã Gonçalves
+931541	35	6	2023-09-28	104562	Glória	Mariane Aparecida
+962812	60	7	2024-01-23	118924	Pampulha	Leandro Teixeira
+643539	126	2	2023-12-20	134973	Glória	Felipe Araújo
+575684	103	10	2024-12-22	105689	Central	Vitor Gabriel Borges
+396529	61	4	2024-09-11	160510	Glória	Maria Alice Garcia
+646534	181	5	2024-04-07	184886	Cidade Jardim	Augusto Correia
+965163	84	4	2024-01-06	128808	Cidade Jardim	Luiz Fernando da Mota
+703055	99	3	2024-02-01	197968	Pampulha	Maria Luísa Moraes
+972199	61	4	2024-01-06	139785	Pampulha	Olívia Pereira
+84350	18	10	2024-11-01	153270	Cidade Jardim	João Gabriel Marques
+923519	124	3	2023-10-16	168028	UFU	Enrico Montenegro
+606464	146	2	2024-01-07	182557	Pampulha	Kamilly Campos
+710982	196	7	2024-12-24	146958	Gameleira	Alice da Conceição
+970281	79	5	2024-02-02	108381	Gameleira	Ana Luiza Rios
+691481	42	3	2023-11-18	167890	Glória	Asafe Silveira
+642709	57	1	2023-09-17	159089	Central	Cauê Montenegro
+776451	159	3	2024-05-16	197968	Pampulha	Maria Luísa Moraes
+234079	181	1	2024-03-10	197968	Pampulha	Maria Luísa Moraes
+456175	97	8	2025-02-26	139785	Pampulha	Olívia Pereira
+545140	86	9	2024-06-04	184886	Cidade Jardim	Augusto Correia
+89131	188	9	2023-12-19	182557	Pampulha	Kamilly Campos
+199358	102	5	2023-05-24	148203	Cidade Jardim	Isabela Casa Grande
+177773	133	6	2024-09-23	159089	Central	Cauê Montenegro
+764181	82	3	2025-01-30	110443	Central	Cauã Gonçalves
+595705	33	8	2024-01-05	160510	Glória	Maria Alice Garcia
+904235	35	5	2023-11-09	104562	Glória	Mariane Aparecida
+838267	155	4	2023-07-15	105689	Central	Vitor Gabriel Borges
+521030	182	10	2024-02-05	185647	UFU	Guilherme da Cunha
+106870	188	8	2023-08-17	113189	Gameleira	Helena da Paz
+439962	93	3	2024-01-13	146958	Gameleira	Alice da Conceição
+369988	75	4	2023-03-23	108381	Gameleira	Ana Luiza Rios
+229377	50	1	2023-06-05	139785	Pampulha	Olívia Pereira
+443132	94	6	2023-11-09	160510	Glória	Maria Alice Garcia
+770590	195	2	2023-10-03	124337	UFU	Arthur Miguel Cavalcante
+832278	198	7	2024-07-04	194154	UFU	Maria Alice Albuquerque
+520307	37	8	2023-09-09	120637	Glória	Maria Flor Silva
+935112	188	6	2024-06-01	167890	Glória	Asafe Silveira
+353541	182	7	2024-08-05	134973	Glória	Felipe Araújo
+54841	28	6	2024-06-19	167890	Glória	Asafe Silveira
+820411	39	7	2024-04-12	194154	UFU	Maria Alice Albuquerque
+512408	199	9	2023-08-23	108381	Gameleira	Ana Luiza Rios
+948314	112	6	2025-03-01	121149	Gameleira	Arthur Gabriel Aparecida
+254325	182	4	2023-10-08	139785	Pampulha	Olívia Pereira
+250566	61	5	2024-12-12	120637	Glória	Maria Flor Silva
+234765	77	10	2023-04-01	108381	Gameleira	Ana Luiza Rios
+240971	145	4	2023-11-06	104562	Glória	Mariane Aparecida
+598098	145	3	2023-04-30	171654	UFU	Mateus Rios
+798638	61	6	2024-07-09	120637	Glória	Maria Flor Silva
+238661	26	4	2023-09-24	160675	UFU	Dra. Ana Clara Abreu
+341807	156	1	2023-07-15	185647	UFU	Guilherme da Cunha
+975542	54	8	2024-10-31	161902	UFU	Vitor Oliveira
+988566	200	7	2023-09-02	182332	Gameleira	Nicole da Luz
+288943	158	8	2023-04-24	161902	UFU	Vitor Oliveira
+678016	172	3	2023-04-07	160510	Glória	Maria Alice Garcia
+212932	99	7	2024-04-22	118924	Pampulha	Leandro Teixeira
+280491	117	1	2023-12-14	168028	UFU	Enrico Montenegro
+389367	173	3	2024-03-08	120637	Glória	Maria Flor Silva
+381408	37	10	2024-09-13	124337	UFU	Arthur Miguel Cavalcante
+958780	85	6	2024-04-04	134973	Glória	Felipe Araújo
+493053	178	7	2024-06-30	174185	Gameleira	Maria Luísa Novaes
+671818	89	3	2024-10-16	113189	Gameleira	Helena da Paz
+144670	171	4	2024-03-04	176603	Central	Rael Oliveira
+484340	164	4	2024-05-09	110443	Central	Cauã Gonçalves
+489991	106	9	2023-11-22	139785	Pampulha	Olívia Pereira
+52067	105	7	2024-07-25	174185	Gameleira	Maria Luísa Novaes
+972049	65	2	2024-08-13	176603	Central	Rael Oliveira
+129959	163	1	2023-06-01	120637	Glória	Maria Flor Silva
+231644	146	2	2023-04-17	168227	Gameleira	João Gabriel Nogueira
+228435	100	9	2024-07-21	110443	Central	Cauã Gonçalves
+99659	15	9	2024-08-16	104562	Glória	Mariane Aparecida
+903971	18	1	2024-02-08	104562	Glória	Mariane Aparecida
+913345	159	8	2024-05-10	184886	Cidade Jardim	Augusto Correia
+453259	38	10	2025-01-20	174699	Glória	Dra. Mariana da Luz
+155256	200	2	2024-04-22	197968	Pampulha	Maria Luísa Moraes
+588144	27	10	2023-12-03	109882	Glória	Manuella Abreu
+951275	124	4	2023-10-26	182332	Gameleira	Nicole da Luz
+797472	50	3	2024-08-29	176603	Central	Rael Oliveira
+95006	91	6	2024-11-23	108381	Gameleira	Ana Luiza Rios
+904572	80	5	2024-06-12	148203	Cidade Jardim	Isabela Casa Grande
+511961	192	10	2024-01-28	167890	Glória	Asafe Silveira
+571979	157	5	2023-05-09	148203	Cidade Jardim	Isabela Casa Grande
+560651	112	1	2023-04-21	182557	Pampulha	Kamilly Campos
+412317	30	2	2024-12-24	171654	UFU	Mateus Rios
+431525	143	1	2023-10-22	150639	Central	Eduarda Costela
+73571	123	3	2024-01-05	161902	UFU	Vitor Oliveira
+665507	91	7	2025-02-24	148203	Cidade Jardim	Isabela Casa Grande
+179029	95	1	2024-02-06	113189	Gameleira	Helena da Paz
+47597	162	6	2024-05-20	176603	Central	Rael Oliveira
+2678	97	10	2024-11-16	160510	Glória	Maria Alice Garcia
+201916	68	7	2024-01-04	150639	Central	Eduarda Costela
+421540	122	3	2023-04-11	110443	Central	Cauã Gonçalves
+632054	11	8	2023-08-05	144688	Pampulha	Arthur Gabriel Costela
+688104	76	3	2024-06-10	144688	Pampulha	Arthur Gabriel Costela
+481695	33	1	2023-11-06	174699	Glória	Dra. Mariana da Luz
+495384	28	10	2024-09-03	125390	Glória	Lucca Ferreira
+661059	192	2	2023-04-24	174699	Glória	Dra. Mariana da Luz
+134558	62	1	2023-04-25	110443	Central	Cauã Gonçalves
+82838	156	10	2024-05-03	182332	Gameleira	Nicole da Luz
+6397	155	2	2023-07-24	153270	Cidade Jardim	João Gabriel Marques
+505024	156	3	2025-01-21	153270	Cidade Jardim	João Gabriel Marques
+92867	109	8	2023-10-27	174185	Gameleira	Maria Luísa Novaes
+927574	24	8	2024-06-23	185647	UFU	Guilherme da Cunha
+926371	73	6	2023-10-03	125390	Glória	Lucca Ferreira
+755301	83	1	2025-01-29	114296	Cidade Jardim	Erick Siqueira
+267228	23	3	2024-09-16	146958	Gameleira	Alice da Conceição
+248585	66	7	2023-10-14	199301	UFU	Matteo da Cruz
+896996	79	2	2023-09-23	181314	Pampulha	Luan Oliveira
+181733	76	6	2023-10-14	176603	Central	Rael Oliveira
+227856	92	10	2023-12-30	185647	UFU	Guilherme da Cunha
+744278	128	1	2024-02-23	124337	UFU	Arthur Miguel Cavalcante
+405451	183	6	2023-12-24	168028	UFU	Enrico Montenegro
+306023	70	5	2023-11-19	160510	Glória	Maria Alice Garcia
+87951	89	8	2024-07-27	124337	UFU	Arthur Miguel Cavalcante
+967345	28	9	2024-03-05	109882	Glória	Manuella Abreu
+959093	118	5	2023-05-16	113189	Gameleira	Helena da Paz
+523808	133	5	2024-10-14	185647	UFU	Guilherme da Cunha
+670921	152	8	2023-06-28	160675	UFU	Dra. Ana Clara Abreu
+716912	151	8	2024-04-23	197968	Pampulha	Maria Luísa Moraes
+833199	189	3	2024-04-09	181314	Pampulha	Luan Oliveira
+737355	46	4	2024-07-27	139785	Pampulha	Olívia Pereira
+694348	90	8	2024-07-11	160510	Glória	Maria Alice Garcia
+343732	92	5	2023-12-19	171654	UFU	Mateus Rios
+648759	61	4	2023-12-04	108381	Gameleira	Ana Luiza Rios
+377285	104	4	2023-11-10	168028	UFU	Enrico Montenegro
+915482	193	6	2023-04-04	125390	Glória	Lucca Ferreira
+616951	147	8	2023-11-20	199301	UFU	Matteo da Cruz
+89236	121	3	2025-01-09	161902	UFU	Vitor Oliveira
+236808	194	3	2023-06-20	105689	Central	Vitor Gabriel Borges
+151845	23	5	2024-02-08	118924	Pampulha	Leandro Teixeira
+659741	144	6	2024-04-01	105689	Central	Vitor Gabriel Borges
+94213	122	3	2025-01-30	139785	Pampulha	Olívia Pereira
+328643	185	4	2024-04-08	144688	Pampulha	Arthur Gabriel Costela
+54247	78	7	2024-09-02	159089	Central	Cauê Montenegro
+315111	133	2	2024-11-09	194154	UFU	Maria Alice Albuquerque
+965226	16	7	2024-06-04	150639	Central	Eduarda Costela
+590659	45	3	2024-11-13	185647	UFU	Guilherme da Cunha
+917347	140	9	2023-03-30	148203	Cidade Jardim	Isabela Casa Grande
+227212	164	3	2024-11-19	174699	Glória	Dra. Mariana da Luz
+725071	36	7	2024-10-18	125390	Glória	Lucca Ferreira
+685326	80	2	2024-10-18	121149	Gameleira	Arthur Gabriel Aparecida
+844249	21	3	2024-12-31	114296	Cidade Jardim	Erick Siqueira
+667747	43	10	2024-03-11	120637	Glória	Maria Flor Silva
+198662	37	6	2023-08-08	184886	Cidade Jardim	Augusto Correia
+856021	133	6	2023-07-24	174699	Glória	Dra. Mariana da Luz
+914934	120	8	2023-04-23	108381	Gameleira	Ana Luiza Rios
+416007	91	8	2023-09-08	125390	Glória	Lucca Ferreira
+35792	72	2	2023-05-11	159089	Central	Cauê Montenegro
+686886	147	9	2024-09-18	134973	Glória	Felipe Araújo
+416748	136	9	2025-02-20	171654	UFU	Mateus Rios
+502875	190	1	2024-06-11	118924	Pampulha	Leandro Teixeira
+846664	22	7	2025-01-13	144688	Pampulha	Arthur Gabriel Costela
+650187	61	9	2023-05-31	168227	Gameleira	João Gabriel Nogueira
+259922	197	2	2023-11-27	144688	Pampulha	Arthur Gabriel Costela
+609054	18	5	2025-03-09	176603	Central	Rael Oliveira
+760171	154	1	2023-08-02	139785	Pampulha	Olívia Pereira
+385019	74	9	2024-07-01	125390	Glória	Lucca Ferreira
+587353	73	3	2024-07-04	104562	Glória	Mariane Aparecida
+464212	176	8	2025-02-26	174185	Gameleira	Maria Luísa Novaes
+533396	53	6	2024-07-24	181314	Pampulha	Luan Oliveira
+241974	172	10	2024-10-24	134973	Glória	Felipe Araújo
+92695	65	3	2023-11-13	197968	Pampulha	Maria Luísa Moraes
+396804	154	5	2024-07-31	110443	Central	Cauã Gonçalves
+795501	170	10	2023-06-22	185647	UFU	Guilherme da Cunha
+977692	88	1	2023-12-01	125390	Glória	Lucca Ferreira
+884764	30	4	2023-06-19	146958	Gameleira	Alice da Conceição
+946491	74	6	2024-11-27	120637	Glória	Maria Flor Silva
+102664	59	4	2023-04-02	118924	Pampulha	Leandro Teixeira
+28265	64	5	2024-01-17	197968	Pampulha	Maria Luísa Moraes
+559474	150	3	2024-05-14	174699	Glória	Dra. Mariana da Luz
+301601	184	1	2024-03-08	184886	Cidade Jardim	Augusto Correia
+322903	110	3	2024-09-04	105689	Central	Vitor Gabriel Borges
+47055	67	6	2023-09-13	113189	Gameleira	Helena da Paz
+636627	163	1	2023-10-25	148203	Cidade Jardim	Isabela Casa Grande
+293388	96	8	2023-09-23	146958	Gameleira	Alice da Conceição
+272361	17	4	2023-10-08	113189	Gameleira	Helena da Paz
+469918	144	9	2023-04-10	139785	Pampulha	Olívia Pereira
+696424	116	1	2024-10-25	114296	Cidade Jardim	Erick Siqueira
+237094	104	1	2024-06-23	171654	UFU	Mateus Rios
+556251	12	4	2024-09-02	153270	Cidade Jardim	João Gabriel Marques
+325987	189	4	2023-12-03	168227	Gameleira	João Gabriel Nogueira
+271644	12	4	2023-05-24	124337	UFU	Arthur Miguel Cavalcante
+152244	132	10	2024-09-16	114296	Cidade Jardim	Erick Siqueira
+787105	116	7	2023-08-01	181314	Pampulha	Luan Oliveira
+495491	165	7	2023-07-24	160510	Glória	Maria Alice Garcia
+268047	153	6	2024-10-06	182557	Pampulha	Kamilly Campos
+64366	133	1	2024-06-25	150639	Central	Eduarda Costela
+399065	29	7	2023-07-27	124337	UFU	Arthur Miguel Cavalcante
+111538	178	9	2024-12-07	120637	Glória	Maria Flor Silva
+771336	178	1	2023-04-09	174699	Glória	Dra. Mariana da Luz
+88323	111	7	2023-05-18	182332	Gameleira	Nicole da Luz
+51300	143	8	2023-06-08	150639	Central	Eduarda Costela
+821763	17	4	2024-10-18	128808	Cidade Jardim	Luiz Fernando da Mota
+464365	113	5	2024-09-25	125390	Glória	Lucca Ferreira
+407034	94	5	2025-01-26	118924	Pampulha	Leandro Teixeira
+559157	94	4	2024-05-16	120637	Glória	Maria Flor Silva
+696655	72	3	2023-11-05	109882	Glória	Manuella Abreu
+844001	164	7	2023-11-22	160675	UFU	Dra. Ana Clara Abreu
+191898	108	8	2024-06-25	168028	UFU	Enrico Montenegro
+111008	146	4	2023-08-03	139785	Pampulha	Olívia Pereira
+880858	58	7	2024-10-13	148203	Cidade Jardim	Isabela Casa Grande
+886799	165	9	2024-02-01	105689	Central	Vitor Gabriel Borges
+515101	43	5	2023-08-04	174185	Gameleira	Maria Luísa Novaes
+267421	50	10	2024-11-04	171654	UFU	Mateus Rios
+236222	37	7	2024-11-10	153270	Cidade Jardim	João Gabriel Marques
+261979	188	3	2024-01-06	182332	Gameleira	Nicole da Luz
+816711	166	4	2024-05-30	159089	Central	Cauê Montenegro
+926747	158	9	2024-09-12	174699	Glória	Dra. Mariana da Luz
+374352	134	6	2023-09-26	161902	UFU	Vitor Oliveira
+884186	46	2	2024-07-10	184886	Cidade Jardim	Augusto Correia
+937701	63	4	2024-12-24	161902	UFU	Vitor Oliveira
+993135	198	10	2024-04-13	113189	Gameleira	Helena da Paz
+444643	110	1	2024-06-03	159089	Central	Cauê Montenegro
+965594	190	9	2023-04-05	104562	Glória	Mariane Aparecida
+205621	93	2	2024-01-01	109882	Glória	Manuella Abreu
+203750	69	3	2024-03-22	134973	Glória	Felipe Araújo
+767536	197	7	2024-02-17	125390	Glória	Lucca Ferreira
+214501	151	3	2023-08-17	113189	Gameleira	Helena da Paz
+199477	169	3	2025-02-10	114296	Cidade Jardim	Erick Siqueira
+457742	62	6	2024-01-09	150639	Central	Eduarda Costela
+659658	134	1	2023-05-24	160675	UFU	Dra. Ana Clara Abreu
+792003	155	7	2024-01-24	160675	UFU	Dra. Ana Clara Abreu
+379778	192	8	2024-11-21	153270	Cidade Jardim	João Gabriel Marques
+557233	98	3	2023-12-25	174185	Gameleira	Maria Luísa Novaes
+46505	136	3	2024-06-29	174185	Gameleira	Maria Luísa Novaes
+401676	108	3	2023-08-20	104562	Glória	Mariane Aparecida
+615301	180	4	2023-07-20	194154	UFU	Maria Alice Albuquerque
+274212	191	7	2024-08-24	104562	Glória	Mariane Aparecida
+591138	172	3	2023-06-17	121149	Gameleira	Arthur Gabriel Aparecida
+385791	128	8	2025-03-07	160675	UFU	Dra. Ana Clara Abreu
+595888	54	4	2024-11-11	167890	Glória	Asafe Silveira
+978128	138	7	2023-04-25	153270	Cidade Jardim	João Gabriel Marques
+552603	130	1	2023-12-18	159089	Central	Cauê Montenegro
+550718	79	4	2024-02-08	171654	UFU	Mateus Rios
+993485	22	1	2023-07-12	150639	Central	Eduarda Costela
+392838	49	8	2023-04-04	109882	Glória	Manuella Abreu
+766381	68	1	2024-03-13	114296	Cidade Jardim	Erick Siqueira
+677852	174	7	2024-03-07	105689	Central	Vitor Gabriel Borges
+755753	129	2	2024-06-27	139785	Pampulha	Olívia Pereira
+363978	18	3	2024-01-17	128808	Cidade Jardim	Luiz Fernando da Mota
+174418	111	10	2024-05-18	182557	Pampulha	Kamilly Campos
+982189	161	10	2024-11-06	185647	UFU	Guilherme da Cunha
+348840	128	10	2023-05-23	174185	Gameleira	Maria Luísa Novaes
+651354	174	2	2024-01-02	194154	UFU	Maria Alice Albuquerque
+235387	129	8	2025-01-11	144688	Pampulha	Arthur Gabriel Costela
+953897	173	2	2024-08-09	108381	Gameleira	Ana Luiza Rios
+197440	161	5	2023-12-16	110443	Central	Cauã Gonçalves
+231207	25	10	2024-03-22	171654	UFU	Mateus Rios
+340086	197	5	2025-02-18	148203	Cidade Jardim	Isabela Casa Grande
+955827	16	8	2023-07-01	174699	Glória	Dra. Mariana da Luz
+61351	71	5	2024-11-22	148203	Cidade Jardim	Isabela Casa Grande
+324927	38	9	2024-04-11	148203	Cidade Jardim	Isabela Casa Grande
+378098	149	7	2024-06-21	121149	Gameleira	Arthur Gabriel Aparecida
+294040	51	1	2024-01-16	144688	Pampulha	Arthur Gabriel Costela
+488116	180	5	2023-09-25	118924	Pampulha	Leandro Teixeira
+138993	35	10	2023-12-08	176603	Central	Rael Oliveira
+662978	170	4	2024-03-07	146958	Gameleira	Alice da Conceição
+938998	81	9	2024-01-13	104562	Glória	Mariane Aparecida
+355933	183	2	2024-08-04	194154	UFU	Maria Alice Albuquerque
+195280	155	4	2024-04-21	120637	Glória	Maria Flor Silva
+872598	176	3	2024-08-13	184886	Cidade Jardim	Augusto Correia
+556333	125	1	2023-08-19	182557	Pampulha	Kamilly Campos
+167770	96	10	2024-12-16	159089	Central	Cauê Montenegro
+110456	173	8	2023-09-13	144688	Pampulha	Arthur Gabriel Costela
+876140	78	2	2023-11-11	118924	Pampulha	Leandro Teixeira
+649891	45	8	2024-04-27	144688	Pampulha	Arthur Gabriel Costela
+599114	22	7	2023-07-15	124337	UFU	Arthur Miguel Cavalcante
+211895	97	6	2023-05-25	114296	Cidade Jardim	Erick Siqueira
+642033	86	2	2023-09-29	199301	UFU	Matteo da Cruz
+246464	102	10	2023-05-12	197968	Pampulha	Maria Luísa Moraes
+702831	46	10	2024-12-06	113189	Gameleira	Helena da Paz
+413305	83	3	2023-03-28	124337	UFU	Arthur Miguel Cavalcante
+61015	55	4	2024-01-08	136390	UFU	Josué Moraes
+348492	117	2	2024-01-31	159089	Central	Cauê Montenegro
+963094	148	9	2023-06-12	139785	Pampulha	Olívia Pereira
+74039	130	8	2024-04-27	174699	Glória	Dra. Mariana da Luz
+997011	74	10	2025-02-17	181314	Pampulha	Luan Oliveira
+703562	101	4	2023-10-11	194154	UFU	Maria Alice Albuquerque
+282389	71	4	2024-10-22	120637	Glória	Maria Flor Silva
+857493	81	1	2024-03-05	160675	UFU	Dra. Ana Clara Abreu
+817368	32	2	2023-08-01	134973	Glória	Felipe Araújo
+154921	188	5	2024-02-01	184886	Cidade Jardim	Augusto Correia
+254528	132	9	2024-08-22	182332	Gameleira	Nicole da Luz
+629500	179	9	2023-05-17	105689	Central	Vitor Gabriel Borges
+979516	20	1	2023-06-15	174185	Gameleira	Maria Luísa Novaes
+425298	45	5	2025-02-03	125390	Glória	Lucca Ferreira
+971943	49	2	2024-08-03	146958	Gameleira	Alice da Conceição
+484258	69	2	2024-02-05	108381	Gameleira	Ana Luiza Rios
+913219	29	8	2024-09-11	125390	Glória	Lucca Ferreira
+541083	173	1	2024-11-25	197968	Pampulha	Maria Luísa Moraes
+634430	75	7	2023-10-07	128808	Cidade Jardim	Luiz Fernando da Mota
+914459	140	8	2024-05-02	150639	Central	Eduarda Costela
+945536	163	10	2024-09-07	120637	Glória	Maria Flor Silva
+72293	101	9	2023-12-18	124337	UFU	Arthur Miguel Cavalcante
+278103	37	4	2024-01-11	181314	Pampulha	Luan Oliveira
+143069	185	1	2024-03-15	109882	Glória	Manuella Abreu
+671911	126	9	2024-07-26	109882	Glória	Manuella Abreu
+411958	182	4	2024-07-05	174699	Glória	Dra. Mariana da Luz
+242313	187	2	2023-08-02	150639	Central	Eduarda Costela
+66228	148	1	2024-01-22	185647	UFU	Guilherme da Cunha
+15086	175	1	2024-12-29	176603	Central	Rael Oliveira
+117116	60	7	2024-09-17	150639	Central	Eduarda Costela
+755389	138	6	2023-08-15	185647	UFU	Guilherme da Cunha
+581152	36	9	2023-09-16	174185	Gameleira	Maria Luísa Novaes
+934777	28	7	2024-07-01	110443	Central	Cauã Gonçalves
+431354	51	1	2023-08-30	121149	Gameleira	Arthur Gabriel Aparecida
+187168	45	4	2023-07-07	134973	Glória	Felipe Araújo
+66120	27	2	2025-02-19	171654	UFU	Mateus Rios
+506996	195	5	2023-04-11	176603	Central	Rael Oliveira
+986152	138	6	2024-03-20	148203	Cidade Jardim	Isabela Casa Grande
+994341	67	5	2023-08-18	168227	Gameleira	João Gabriel Nogueira
+188603	127	2	2023-11-01	114296	Cidade Jardim	Erick Siqueira
+837758	154	2	2024-05-01	120637	Glória	Maria Flor Silva
+888843	12	6	2024-01-05	181314	Pampulha	Luan Oliveira
+127171	29	5	2024-02-26	113189	Gameleira	Helena da Paz
+240085	83	9	2023-05-24	194154	UFU	Maria Alice Albuquerque
+100281	61	7	2024-04-30	194154	UFU	Maria Alice Albuquerque
+404975	113	1	2023-10-28	114296	Cidade Jardim	Erick Siqueira
+574021	73	10	2024-01-15	109882	Glória	Manuella Abreu
+273592	163	5	2025-02-17	185647	UFU	Guilherme da Cunha
+878118	125	3	2023-04-23	168227	Gameleira	João Gabriel Nogueira
+287855	118	5	2024-10-14	144688	Pampulha	Arthur Gabriel Costela
+243580	166	8	2024-09-08	197968	Pampulha	Maria Luísa Moraes
+963406	17	7	2024-02-23	134973	Glória	Felipe Araújo
+507726	146	6	2024-11-17	125390	Glória	Lucca Ferreira
+577541	131	3	2024-07-07	181314	Pampulha	Luan Oliveira
+644481	159	4	2024-03-15	125390	Glória	Lucca Ferreira
+553960	158	5	2023-10-16	150639	Central	Eduarda Costela
+448705	153	1	2024-04-18	134973	Glória	Felipe Araújo
+557120	128	1	2023-12-06	168028	UFU	Enrico Montenegro
+482535	144	4	2024-10-01	161902	UFU	Vitor Oliveira
+693409	192	9	2024-11-03	139785	Pampulha	Olívia Pereira
+535642	149	2	2023-05-03	125390	Glória	Lucca Ferreira
+839921	51	8	2024-03-18	167890	Glória	Asafe Silveira
+209230	143	7	2024-03-08	167890	Glória	Asafe Silveira
+456686	31	6	2023-05-20	124337	UFU	Arthur Miguel Cavalcante
+438815	140	10	2023-06-29	160510	Glória	Maria Alice Garcia
+404166	98	8	2024-01-13	121149	Gameleira	Arthur Gabriel Aparecida
+317384	102	9	2024-12-16	109882	Glória	Manuella Abreu
+585035	53	10	2023-07-02	124337	UFU	Arthur Miguel Cavalcante
+879985	98	3	2024-12-20	120637	Glória	Maria Flor Silva
+651078	64	4	2024-07-14	125390	Glória	Lucca Ferreira
+450037	109	3	2023-08-22	159089	Central	Cauê Montenegro
+499397	56	6	2025-01-04	185647	UFU	Guilherme da Cunha
+724257	114	7	2023-11-08	121149	Gameleira	Arthur Gabriel Aparecida
+73579	90	3	2023-03-21	171654	UFU	Mateus Rios
+605860	13	5	2024-09-16	109882	Glória	Manuella Abreu
+741511	77	3	2023-06-21	153270	Cidade Jardim	João Gabriel Marques
+733588	132	5	2023-05-18	134973	Glória	Felipe Araújo
+650663	179	5	2024-11-11	144688	Pampulha	Arthur Gabriel Costela
+725483	38	10	2023-10-31	104562	Glória	Mariane Aparecida
+692893	103	1	2024-02-24	197968	Pampulha	Maria Luísa Moraes
+163196	127	2	2025-02-12	199301	UFU	Matteo da Cruz
+875476	118	4	2025-03-10	120637	Glória	Maria Flor Silva
+726893	149	8	2023-03-19	113189	Gameleira	Helena da Paz
+557708	105	6	2024-06-01	109882	Glória	Manuella Abreu
+687102	190	2	2023-03-24	146958	Gameleira	Alice da Conceição
+328468	37	4	2024-10-04	120637	Glória	Maria Flor Silva
+634205	111	2	2025-02-28	159089	Central	Cauê Montenegro
+65087	157	2	2024-03-21	182332	Gameleira	Nicole da Luz
+945053	144	8	2023-05-05	139785	Pampulha	Olívia Pereira
+364491	190	5	2024-04-02	182332	Gameleira	Nicole da Luz
+723736	148	3	2024-10-29	167890	Glória	Asafe Silveira
+873245	37	4	2023-12-03	110443	Central	Cauã Gonçalves
+219579	91	7	2023-07-25	153270	Cidade Jardim	João Gabriel Marques
+702122	64	5	2023-03-30	168028	UFU	Enrico Montenegro
+794742	183	8	2025-02-12	171654	UFU	Mateus Rios
+982554	70	8	2023-12-28	197968	Pampulha	Maria Luísa Moraes
+790054	24	6	2024-01-01	182332	Gameleira	Nicole da Luz
+212901	108	3	2024-05-02	181314	Pampulha	Luan Oliveira
+681788	121	10	2023-07-28	139785	Pampulha	Olívia Pereira
+662418	63	9	2025-01-11	160675	UFU	Dra. Ana Clara Abreu
+82097	194	9	2024-08-06	150639	Central	Eduarda Costela
+332614	196	1	2023-09-01	134973	Glória	Felipe Araújo
+47608	114	4	2023-08-25	185647	UFU	Guilherme da Cunha
+105828	140	8	2025-01-20	176603	Central	Rael Oliveira
+588702	61	4	2024-01-02	171654	UFU	Mateus Rios
+973950	26	8	2024-07-06	109882	Glória	Manuella Abreu
+529520	141	5	2023-08-02	128808	Cidade Jardim	Luiz Fernando da Mota
+147212	67	5	2024-02-02	174699	Glória	Dra. Mariana da Luz
+202830	122	6	2025-01-14	121149	Gameleira	Arthur Gabriel Aparecida
+422981	55	10	2025-01-15	153270	Cidade Jardim	João Gabriel Marques
+972118	115	9	2023-12-20	176603	Central	Rael Oliveira
+819463	36	3	2023-10-21	185647	UFU	Guilherme da Cunha
+333754	91	3	2023-07-29	124337	UFU	Arthur Miguel Cavalcante
+838157	73	2	2024-06-10	136390	UFU	Josué Moraes
+69783	60	3	2024-01-23	125390	Glória	Lucca Ferreira
+791264	108	5	2024-08-02	104562	Glória	Mariane Aparecida
+235579	26	9	2025-01-05	194154	UFU	Maria Alice Albuquerque
+756245	81	10	2024-06-08	167890	Glória	Asafe Silveira
+499970	45	2	2024-02-06	181314	Pampulha	Luan Oliveira
+144050	96	8	2025-03-07	125390	Glória	Lucca Ferreira
+99141	143	4	2024-01-23	197968	Pampulha	Maria Luísa Moraes
+500029	13	5	2024-11-07	114296	Cidade Jardim	Erick Siqueira
+966055	44	9	2024-11-03	182557	Pampulha	Kamilly Campos
+294822	199	5	2024-04-20	160510	Glória	Maria Alice Garcia
+521848	11	5	2024-04-09	128808	Cidade Jardim	Luiz Fernando da Mota
+269599	70	3	2023-04-27	144688	Pampulha	Arthur Gabriel Costela
+414574	62	10	2023-05-10	134973	Glória	Felipe Araújo
+190366	98	7	2024-11-05	109882	Glória	Manuella Abreu
+644427	12	8	2023-09-06	110443	Central	Cauã Gonçalves
+234174	20	3	2023-11-23	113189	Gameleira	Helena da Paz
+604941	54	6	2023-05-15	108381	Gameleira	Ana Luiza Rios
+221664	71	8	2023-05-18	185647	UFU	Guilherme da Cunha
+479526	45	5	2024-09-07	174185	Gameleira	Maria Luísa Novaes
+184291	65	5	2024-12-18	108381	Gameleira	Ana Luiza Rios
+382117	148	2	2024-10-29	174185	Gameleira	Maria Luísa Novaes
+445951	144	4	2024-12-24	104562	Glória	Mariane Aparecida
+905547	124	4	2023-03-16	108381	Gameleira	Ana Luiza Rios
+264570	114	10	2023-08-27	197968	Pampulha	Maria Luísa Moraes
+3444	12	10	2023-11-21	176603	Central	Rael Oliveira
+52526	23	2	2024-04-20	118924	Pampulha	Leandro Teixeira
+162402	132	7	2024-04-18	168227	Gameleira	João Gabriel Nogueira
+983928	91	9	2024-02-23	118924	Pampulha	Leandro Teixeira
+786054	101	8	2024-10-24	150639	Central	Eduarda Costela
+299195	68	8	2023-05-13	182332	Gameleira	Nicole da Luz
+554664	45	8	2024-07-27	120637	Glória	Maria Flor Silva
+990505	58	6	2024-11-19	146958	Gameleira	Alice da Conceição
+408514	71	6	2023-06-09	146958	Gameleira	Alice da Conceição
+218751	31	10	2024-04-10	144688	Pampulha	Arthur Gabriel Costela
+820689	193	6	2023-10-25	167890	Glória	Asafe Silveira
+874613	99	2	2024-07-24	146958	Gameleira	Alice da Conceição
+517273	193	7	2024-02-07	168227	Gameleira	João Gabriel Nogueira
+108380	179	2	2024-11-03	114296	Cidade Jardim	Erick Siqueira
+130493	31	5	2023-08-05	134973	Glória	Felipe Araújo
+365075	178	6	2025-03-04	113189	Gameleira	Helena da Paz
+112198	32	7	2024-02-23	118924	Pampulha	Leandro Teixeira
+512619	200	7	2024-11-24	160675	UFU	Dra. Ana Clara Abreu
+201353	186	10	2024-11-12	109882	Glória	Manuella Abreu
+939664	58	10	2023-07-08	125390	Glória	Lucca Ferreira
+212416	41	7	2023-08-26	176603	Central	Rael Oliveira
+598318	142	6	2023-11-18	174185	Gameleira	Maria Luísa Novaes
+345517	68	6	2024-07-15	161902	UFU	Vitor Oliveira
+9192	174	3	2023-10-12	176603	Central	Rael Oliveira
+483064	173	2	2024-07-09	171654	UFU	Mateus Rios
+891255	84	8	2024-03-16	153270	Cidade Jardim	João Gabriel Marques
+391154	17	1	2023-05-05	150639	Central	Eduarda Costela
+676365	144	1	2023-06-14	134973	Glória	Felipe Araújo
+629042	127	9	2025-01-02	167890	Glória	Asafe Silveira
+852174	127	4	2024-05-07	125390	Glória	Lucca Ferreira
+993294	200	9	2024-04-08	134973	Glória	Felipe Araújo
+118548	86	2	2023-03-28	182557	Pampulha	Kamilly Campos
+84850	19	10	2023-06-24	168028	UFU	Enrico Montenegro
+784492	64	1	2023-12-13	184886	Cidade Jardim	Augusto Correia
+303580	47	2	2024-04-05	113189	Gameleira	Helena da Paz
+146191	74	1	2024-12-22	150639	Central	Eduarda Costela
+178848	78	6	2024-02-25	136390	UFU	Josué Moraes
+771034	72	1	2024-11-05	113189	Gameleira	Helena da Paz
+737843	130	10	2023-08-02	118924	Pampulha	Leandro Teixeira
+519168	126	7	2023-07-11	168227	Gameleira	João Gabriel Nogueira
+575597	75	7	2024-07-11	159089	Central	Cauê Montenegro
+698828	22	4	2023-05-22	144688	Pampulha	Arthur Gabriel Costela
+342383	154	4	2024-08-31	125390	Glória	Lucca Ferreira
+511573	19	4	2024-05-30	153270	Cidade Jardim	João Gabriel Marques
+641596	165	3	2024-06-17	182557	Pampulha	Kamilly Campos
+823950	14	4	2024-09-22	146958	Gameleira	Alice da Conceição
+475995	115	5	2024-11-10	118924	Pampulha	Leandro Teixeira
+986026	124	3	2024-03-08	168028	UFU	Enrico Montenegro
+730931	18	10	2023-10-06	113189	Gameleira	Helena da Paz
+593973	44	7	2024-10-02	159089	Central	Cauê Montenegro
+730976	130	3	2024-02-07	197968	Pampulha	Maria Luísa Moraes
+620190	44	7	2024-07-20	144688	Pampulha	Arthur Gabriel Costela
+309504	188	1	2023-03-21	105689	Central	Vitor Gabriel Borges
+962428	169	3	2024-11-04	199301	UFU	Matteo da Cruz
+302531	38	8	2023-12-09	105689	Central	Vitor Gabriel Borges
+16231	125	1	2025-01-12	160675	UFU	Dra. Ana Clara Abreu
+948953	157	1	2025-02-25	136390	UFU	Josué Moraes
+776472	75	2	2024-03-31	160675	UFU	Dra. Ana Clara Abreu
+988861	99	1	2023-05-08	160675	UFU	Dra. Ana Clara Abreu
+242209	171	4	2024-01-23	128808	Cidade Jardim	Luiz Fernando da Mota
+463554	89	7	2025-01-14	136390	UFU	Josué Moraes
+742942	43	3	2024-02-07	185647	UFU	Guilherme da Cunha
+927897	188	7	2023-11-06	184886	Cidade Jardim	Augusto Correia
+401126	146	7	2023-09-05	128808	Cidade Jardim	Luiz Fernando da Mota
+27359	26	6	2023-09-03	153270	Cidade Jardim	João Gabriel Marques
+980431	136	5	2024-11-09	148203	Cidade Jardim	Isabela Casa Grande
+595767	127	5	2024-09-03	185647	UFU	Guilherme da Cunha
+299512	38	1	2024-09-14	136390	UFU	Josué Moraes
+577993	67	9	2024-01-20	124337	UFU	Arthur Miguel Cavalcante
+342698	92	5	2023-06-10	120637	Glória	Maria Flor Silva
+666923	153	1	2024-07-24	110443	Central	Cauã Gonçalves
+735026	141	6	2024-02-14	181314	Pampulha	Luan Oliveira
+511047	33	9	2023-06-20	120637	Glória	Maria Flor Silva
+26974	163	9	2023-05-11	181314	Pampulha	Luan Oliveira
+468039	142	3	2023-05-17	114296	Cidade Jardim	Erick Siqueira
+650662	57	9	2024-09-07	171654	UFU	Mateus Rios
+20314	72	10	2025-03-03	174185	Gameleira	Maria Luísa Novaes
+370447	187	9	2023-12-02	153270	Cidade Jardim	João Gabriel Marques
+228841	136	8	2023-05-06	114296	Cidade Jardim	Erick Siqueira

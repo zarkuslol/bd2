@@ -6,4 +6,6 @@ services:
     container_name: jdbc-tutorial
     volumes:
       - ./workspace:/home/joselucas/workspace
+    ports:
+      - "5432:5432"
     tty: true
