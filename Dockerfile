@@ -33,3 +33,5 @@ RUN chmod +x /usr/local/bin/entrypoint.sh
 
 # Define como ponto de entrada
 ENTRYPOINT ["/usr/local/bin/entrypoint.sh"]
+
+
