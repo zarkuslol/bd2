@@ -1,6 +1,7 @@
 -- Postgres
 psql -h localhost -p 5432 -U postgres IB
 ./comp JDBCUtilities properties/postgres-sample-properties.xml
+./comp MyQueries properties/postgres2-sample-properties.xml
 ./comp MyQueries2 properties/postgres-sample-properties.xml
 ./comp MyQueries3 properties/postgres-sample-properties.xml
 

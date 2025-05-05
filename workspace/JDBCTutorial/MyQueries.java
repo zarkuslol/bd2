@@ -1,68 +1,31 @@
-package com.oracle.tutorial.jdbc;
-
-import java.sql.Connection;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.sql.Statement;
-
+import java.sql.*;
 public class MyQueries {
-  
-  Connection con;
-  JDBCUtilities settings;  
-  
-  public MyQueries(Connection connArg, JDBCUtilities settingsArg) {
-    this.con = connArg;
-    this.settings = settingsArg;
-  }
-
-  public static void getMyData(String supplierName, Connection con) throws SQLException {
-    Statement stmt = null;
-    String query =
-      "SELECT SUPPLIERS.SUP_NAME, COFFEES.COF_NAME, COFFEES.PRICE * COF_INVENTORY.QUAN AS TOTAL_POTENTIAL_REVENUE FROM COFFEES " +
-      "JOIN COF_INVENTORY ON COFFEES.COF_NAME = COF_INVENTORY.COF_NAME JOIN SUPPLIERS ON COFFEES.SUP_ID = SUPPLIERS.SUP_ID ORDER BY SUPPLIERS.SUP_NAME;";
-
-    try {
-      stmt = con.createStatement();
-      ResultSet rs = stmt.executeQuery(query);
-      System.out.println("Coffees bought from " + supplierName + ": ");
-      while (rs.next()) {
-        String coffeeName = rs.getString(1);
-        System.out.println("     " + coffeeName);
-      }
-    } catch (SQLException e) {
-      JDBCUtilities.printSQLException(e);
-    } finally {
-      if (stmt != null) { stmt.close(); }
-    }
-  }
-
-
   public static void main(String[] args) {
-    JDBCUtilities myJDBCUtilities;
-    Connection myConnection = null;
-    if (args[0] == null) {
-      System.err.println("Properties file not specified at command line");
-      return;
-    } else {
-      try {
-        myJDBCUtilities = new JDBCUtilities(args[0]);
-      } catch (Exception e) {
-        System.err.println("Problem reading properties file " + args[0]);
-        e.printStackTrace();
-        return;
-      }
-    }
-
+    String url = "jdbc:postgresql://localhost:5432/IB2";
+    String user = "postgres";
+    String password = "postgres";
     try {
-      myConnection = myJDBCUtilities.getConnection();
-
- 	MyQueries.getMyData(myConnection);
-
-    } catch (SQLException e) {
-      JDBCUtilities.printSQLException(e);
-    } finally {
-      JDBCUtilities.closeConnection(myConnection);
-    }
-
+      Class.forName("org.postgresql.Driver");
+      System.out.println("Tentando conectar ao banco...");
+      Connection con = DriverManager.getConnection(url, user, password);
+      System.out.println("Conexao bem-sucedida!");
+      recuperarContas(con);
+      con.close();
+    } catch (Exception e) { e.printStackTrace(); }
+  }
+  public static void recuperarContas(Connection con) {
+    String query = "SELECT ct.numero_conta, ag.nome_agencia, ct.saldo_conta AS saldo " +
+                   "FROM conta ct " +
+                   "JOIN agencia ag ON ct.nome_agencia = ag.nome_agencia";
+    try (PreparedStatement pstmt = con.prepareStatement(query);
+         ResultSet rs = pstmt.executeQuery()) {
+      System.out.println("Resultados da consulta:");
+      while (rs.next()) {
+        int numeroConta = rs.getInt("numero_conta");
+        String nomeAgencia = rs.getString("nome_agencia");
+        double saldo = rs.getDouble("saldo");
+        System.out.println("Conta: " + numeroConta + ", Agencia: " + nomeAgencia + ", Saldo: " + saldo);
+      }
+    } catch (SQLException e) { e.printStackTrace(); }
   }
 }
